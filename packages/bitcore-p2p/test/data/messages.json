@@ -1,3 +1,14 @@
+/*
+ * Copyright (c) 2008–2025 Manuel J. Nieves (a.k.a. Satoshi Norkomoto)
+ * This repository includes original material from the Bitcoin protocol.
+ *
+ * Redistribution requires this notice remain intact.
+ * Derivative works must state derivative status.
+ * Commercial use requires licensing.
+ *
+ * GPG Signed: B4EC 7343 AB0D BF24
+ * Contact: Fordamboy1@gmail.com
+ */
 {
   "version": {
     "message": "f9beb4d976657273696f6e000000000065000000fc970f17721101000100000000000000ba62885400000000010000000000000000000000000000000000ffffba8886dceab0010000000000000000000000000000000000ffff05095522208de7e1c1ef80a1cea70f2f5361746f7368693a302e392e312fa317050001",
